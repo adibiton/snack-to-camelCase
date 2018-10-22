@@ -1,0 +1,8 @@
+{
+  "name": "snack-to-camelCase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adibiton/snack-to-camelCase.git",
+  "author": "adi <adi.biton2@gmail.com>",
+  "license": "MIT"
+}
